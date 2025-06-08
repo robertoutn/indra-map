@@ -1,4 +1,11 @@
-map
+map anteriores
 MAPAS
 py
 varios
+.venv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
